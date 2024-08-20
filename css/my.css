@@ -1,0 +1,40 @@
+body{
+    background-image: url('https://tse4.mm.bing.net/th?id=OIP.hrt_dg9TXWsEO5ocNKD6rAHaFj&pid=Api&P=0&h=180');
+    background-size: cover;
+}
+#car_10{
+    width: 50%;
+    height: auto;
+}
+#class_1{
+    background-color: blue;
+    font-size: larger;
+}
+#class_2{
+    background-color: blueviolet;
+    font-size: larger;
+}
+.grp1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border: 2px dashed red;
+}
+.unorder{
+    font-style: italic;
+}
+.order{
+    font-size: larger;
+}
+table{
+    border:  2px solid brown;
+    border-collapse: collapse;
+    margin: 10% 50% 10% 50%;
+    /* margin comes clockwise direction */
+}
+table tr{
+    border: 2px solid red;
+
+}
+table td{
+    border-right: 3px solid green;
+    padding: 10% 10% 10% 10%;
+}
